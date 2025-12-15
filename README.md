@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.packtpub.com/en-us/unlock?step=1'><img src='https://static.packt-cdn.com/assets/images/packt+events/finalGH_design_redeem.png'/></a></p>
+
 # ROS 2 from Scratch
 
 <a href="https://www.packtpub.com/en-us/product/ros-2-from-scratch-9781835881415"><img src="https://content.packt.com/B22403/cover_image_small.jpg" alt="no-image" height="256px" align="right"></a>
